@@ -134,7 +134,10 @@ al hacer clic en botón Rojo
 ### 🌐 Sitios interactivos para explorar RGB
 
 - **Simulador de mezcla RGB (PBS):** [https://www.pbslearningmedia.org/resource/buac20-68-sci-ps-rgbcoloradd/rgb-color-addition-simulation/](https://www.pbslearningmedia.org/resource/buac20-68-sci-ps-rgbcoloradd/rgb-color-addition-simulation/)
-- **App para chicos de mezcla RGB (Science Kiddo):** [https://sciencekiddo.com/kids-color-mixing-app/](https://sciencekiddo.com/kids-color-mixing-app/)
+
+- **Paint** Paleta de colores: explorar! 
+
+- **w3Schools** https://www.w3schools.com/colors/default.asp
 
 ### Preguntas para guiar la exploración:
 
