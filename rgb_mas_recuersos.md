@@ -7,6 +7,7 @@ Una herramienta **online e interactiva** donde los chicos pueden ajustar los val
 * Ideal para visualizar cómo cada componente influye en el color final.
 * Muy intuitiva y compatible con cualquier navegador.
 
+**otro ejemplo de RGB picker:** https://www.google.com/search?q=color+picker
 
 1. Mostrar primero el **RGB Colour Mixer** o la app de Science Kiddo para que experimenten de forma interactiva.
 2. Crear su propio proyecto en Scratch que:
